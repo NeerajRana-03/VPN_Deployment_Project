@@ -29,9 +29,13 @@ Key capabilities:
 
 🧩 Architecture Overview
 
-Client Device | | Encrypted VPN Tunnel (UDP 51820) | [ AWS EC2 Ubuntu
-Server Running WireGuard ] | |–> Access to Private AWS Subnets /
-Resources
+Client Device 
+| 
+| Encrypted VPN Tunnel (UDP 51820) 
+| 
+[ AWS EC2 Ubuntu Server Running WireGuard ] 
+| 
+|–> Access to Private AWS Subnets /Resources
 
 ------------------------------------------------------------------------
 
